@@ -18,6 +18,7 @@
 - Git e Github
 
 ## Contato
+
 [(LinkedIn)](https://www.linkedin.com/in/guilherme-freitas-9901a220b/)
 -----
 guilhermefsantos150@gmail.com
